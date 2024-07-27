@@ -1,1 +1,3 @@
-"# UST_Assignment" 
+UST Assignment
+
+Learning and exploring git!
