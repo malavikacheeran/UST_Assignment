@@ -1,10 +1,9 @@
-# # Ignore all .log files
-# *.log
+# # Ignore all following file patterns
+*.log
+
 
 # # Ignore all files in the tmp directory
-# /tmp/
+/tmp/
 
 # # Ignore a specific file
-# secret_config.yml
-
-.DS_Store
+secret_config.yml
